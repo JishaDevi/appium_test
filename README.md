@@ -30,3 +30,4 @@ This project demonstrates automated testing of a Android mobile application usin
 
 3. **Run Testng Test**
     Run trustwallet.xml available in project directory(by eclipse,any IDE or command prompt) as testng
+4. 
